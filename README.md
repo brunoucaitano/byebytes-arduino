@@ -1,5 +1,7 @@
 # ☀️ ByeBytes - Automação Sustentável para Forno Solar
 ![Protótipo do Projeto ByeBytes](1734483407621.jpg)
+
+
 O **ByeBytes** é uma solução que integra tecnologia e sustentabilidade para otimizar o preparo de alimentos via energia solar. Através de um sistema baseado em **Arduino**, o projeto automatiza o monitoramento da luz e o tempo de cozimento.
 
 ## 🛠️ Hardware e Conexões
